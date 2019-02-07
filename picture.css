@@ -1,0 +1,16 @@
+.block { 
+    width: 1600px;
+    height: 400px;
+    
+}
+
+
+.footer {
+  position: center;
+  left: auto;
+  bottom: auto;
+  width: 100%;
+  background-color:white;
+  color: black;
+  text-align: center;
+}
